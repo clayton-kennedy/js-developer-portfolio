@@ -1,0 +1,50 @@
+{
+  "name": "Clayton Kennedy Passos dos Reis",
+  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "job": "",
+  "location": "DF - Riacho Fundo II",
+  "phone": "(61) 99349-3720",
+  "email": "clayton-kennedy@hotmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      }
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento análitico",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/clayton-kennedy/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/clayton-kennedy/js-developer-portfolio",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Balconista",
+      "period": "6 anos e 3 meses ",
+      "description": ""
+    }
+  ]
+}
