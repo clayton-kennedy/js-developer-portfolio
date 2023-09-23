@@ -1,7 +1,7 @@
 {
   "name": "Clayton Kennedy Passos dos Reis",
   "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "",
+  "job": "Estudante de ADS",
   "location": "DF - Riacho Fundo II",
   "phone": "(61) 99349-3720",
   "email": "clayton-kennedy@hotmail.com",
@@ -30,19 +30,19 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/clayton-kennedy/js-developer-pokedex",
+      "name": "Conheça meu linkedin",
+      "url": "https://www.linkedin.com/in/clayton-kennedy-passos-dos-reis-8326b899/",
       "github": true
-    },
+    },  
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/clayton-kennedy/js-developer-portfolio",
+      "name": "Conheça meu Github",
+      "url": "https://github.com/clayton-kennedy",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Balconista",
+      "name": "Balconista de Padaria",
       "period": "6 anos e 3 meses ",
       "description": ""
     }
